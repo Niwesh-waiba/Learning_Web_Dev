@@ -6,3 +6,7 @@ I learned following things:
 - list dynamic data with condition
 - handle event , mouse event click
 - make list group active , set state
+- props
+- ReactNode datatype
+- react development tool
+- alert 
